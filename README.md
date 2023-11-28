@@ -1,6 +1,6 @@
 # finnsflask
 
-This is a recreation of the popular python package Flask.
+This is a recreation of the popular python package, Flask.
 
 ## Install requirements
 
