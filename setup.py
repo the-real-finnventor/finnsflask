@@ -1,5 +1,5 @@
 from distutils.core import setup
-with open("README.md", "r") as f:
+with open("ALLINONE.md", "r") as f:
     readme = f.read()
 setup(
     name="finnsflask",
@@ -12,7 +12,7 @@ setup(
     # Provide either the link to your github or to your website
     url='https://github.com/the-real-finnventor/finnsflask',
     # I explain this later on
-    download_url='https://github.com/the-real-finnventor/finnsflask/archive/refs/tags/1.0.tar.gz',
+    download_url='https://github.com/the-real-finnventor/finnsflask/archive/refs/tags/1.1.tar.gz',
     # Keywords that define your package best
     keywords=['FLASK', 'WEBSERVER', "JINJA2"],
     install_requires=[            # I get to this in a second
@@ -26,5 +26,6 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.9'
     ],
-    long_description=readme
+    long_description=readme,
+    long_description_content_type='text/markdown'
 )
