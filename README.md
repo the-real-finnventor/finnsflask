@@ -2,10 +2,10 @@
 
 This is a recreation of the popular python package, Flask.
 
-## Install requirements
+## Install package
 
-To install all the requirements for this project, run:
+To install this package, run:
 
 ```
-pip install -r requirements.txt
+pip install finnsflask
 ```

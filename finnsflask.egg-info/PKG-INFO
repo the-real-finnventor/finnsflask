@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: finnsflask
-Version: 1.0
+Version: 1.1
 Summary: This is a recreation of the popular python package, Flask.
 Home-page: https://github.com/the-real-finnventor/finnsflask
-Download-URL: https://github.com/the-real-finnventor/finnsflask/archive/refs/tags/1.0.tar.gz
+Download-URL: https://github.com/the-real-finnventor/finnsflask/archive/refs/tags/1.1.tar.gz
 Author: Real Finnventor
 Author-email: finnventor@everspaugh.com
 License: MIT
