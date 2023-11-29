@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
 setup(
     name="finnsflask",
     packages=['finnsflask'],
-    version='1.0',
+    version='1.1',
     license="MIT",
     description='This is a recreation of the popular python package, Flask.',
     author='Real Finnventor',                   # Type in your name
